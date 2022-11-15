@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AStorrud
-- 👀 I’m interested in filmms, mostly French
+- 👀 I’m interested in films, mostly French. ;)
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me : ays@ssb.no
