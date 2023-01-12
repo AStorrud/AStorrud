@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AStorrud
 - 👀 I’m interested in movies, mostly French and British. ;)
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning basic Python.
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me : ays@ssb.no
 
