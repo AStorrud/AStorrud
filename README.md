@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AStorrud
-- 🌱 I’m currently learning basic Python.
+- 🌱 I’m currently learning basic Python -still ;).
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me : ays@ssb.no
 
